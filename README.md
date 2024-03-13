@@ -1,0 +1,2 @@
+# Initialising git
+``` git init ```
